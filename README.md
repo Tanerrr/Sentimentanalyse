@@ -1,6 +1,6 @@
 # Sentimentanalyse
 
-Die Stimmungsanalyse ist der Prozess des Erkennens einer positiven oder negativen Stimmung im Text. 
+Die Sentimentanalyse ist der Prozess des Erkennens einer positiven oder negativen Stimmung im Text. 
 Es wird häufig von Unternehmen verwendet, um die Stimmung in sozialen Daten zu erkennen, den Ruf der Marke zu messen und Kunden zu verstehen.
 
 In diesem Analysis habe ich Deutsche und englische Kommantare aus Amazon werden mit TextBlobDE und TextBlob analysiert. 
