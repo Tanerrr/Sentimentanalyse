@@ -13,7 +13,7 @@ Weitere Informationen über Sentimentanalyse finden Sie auf der Website unter de
 Sentiment analysis is the process of detecting positive or negative sentiment in text. 
 It’s often used by businesses to detect sentiment in social data, gauge brand reputation, and understand customers.
 
-In this analysis I have German and English comments on Amazon are analyzed with TextBlobDE and TextBlob. 
+In this analysis I have analyzed German and English comments on Amazon with TextBlobDE and TextBlob. 
 With this we will find out the result of the TextBlob.
 
 For more information about Sentiment analysis, you can visit the website at the link below.
